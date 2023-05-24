@@ -1,7 +1,7 @@
 ## Farzin Sharifzadeh Javidi  
   
-I'm an electrical control engineer, specialized in industrial control systems. PLC: Simens, logo
-Microcontroller: AVR Arduino, arm architecture stm32, esp8266. designing PID control and stability systems.
+I'm an electrical control engineer, specialized in industrial control systems. PLC: Simens, logo <br/>
+Microcontroller: AVR Arduino, arm architecture stm32, esp8266.<br/> designing PID control system and stability systems.
 
 In the change of my profession, I'm focusing on Python web scrapping and data pipelines, ETL echo system, and Linux distribution
   
