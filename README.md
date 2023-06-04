@@ -9,7 +9,8 @@ In the change of my profession, I'm focusing on Python web scrapping and data pi
 
 ## Languages and Tools  
 <div align="center">  
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="25" /></a>  
+<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="25" /></a>
+  <img alt="File:Fedora logo.svg" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Fedora_logo.svg/267px-Fedora_logo.svg.png?20091128031656" decoding="async" width="267" height="267" srcset="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Fedora_logo.svg/401px-Fedora_logo.svg.png?20091128031656 1.5x, https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Fedora_logo.svg/534px-Fedora_logo.svg.png?20091128031656 2x" data-file-width="267" data-file-height="267">
 <a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="25" /></a>    
 <a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="25" /></a>  
 <a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="25" /></a>
