@@ -12,8 +12,7 @@ In the change of my profession, I'm focusing on Python web scrapping and data pi
 
 <img alt="File:Fedora logo.svg" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Fedora_logo.svg/267px-Fedora_logo.svg.png?20091128031656" decoding="async" width="35" height="35" srcset="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Fedora_logo.svg/401px-Fedora_logo.svg.png?20091128031656 1.5x, https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Fedora_logo.svg/534px-Fedora_logo.svg.png?20091128031656 2x" data-file-width="267" data-file-height="35">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" height="35" width="35" alt="ubuntu logo"  />
-  <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="35" /></a>
-<a href="https://www.scala-lang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/scala-original-wordmark.svg" alt="Scala" height="40" /></a> 
+  <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="35" /></a> 
 <a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="35" /></a>
   <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="35" height="35"/> </a>
    <a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="35" /></a>  
