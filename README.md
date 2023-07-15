@@ -6,7 +6,7 @@ Microcontroller: AVR Arduino, arm architecture stm32, esp8266.<br/> designing PI
 In the change of my profession, I'm focusing on Python web scrapping and data pipelines, ETL echo system, and Linux distribution
   
 <br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=farzinsharif&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
 
 ## Languages and Tools  
 <div align="center">  
