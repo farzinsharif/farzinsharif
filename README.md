@@ -1,3 +1,5 @@
+
+
 ## Farzin Sharifzadeh Javidi  
   
 I'm an electrical control engineer, specialized in industrial control systems. PLC: Simens, logo <br/>
@@ -7,7 +9,7 @@ In the change of my profession, I'm focusing on Python web scrapping and data pi
   
 <br/>
 <img align="center" height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=farzinsharif&layout=compact&langs_count=16&theme=swift"/>
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31xzgv6s7nugmalgtuaxtc77tura&cover_image=true&theme=default&show_offline=false&background_color=000000&interchange=true&bar_color=53b14f&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
+
   <br/>
 
 
@@ -43,3 +45,4 @@ In the change of my profession, I'm focusing on Python web scrapping and data pi
 </div>  
 
 ----
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31xzgv6s7nugmalgtuaxtc77tura&cover_image=true&theme=default&show_offline=false&background_color=000000&interchange=true&bar_color=53b14f&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
